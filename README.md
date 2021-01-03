@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 >My GitHub stats are as follows :   
 >
 >![Aakash's's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAKASH707&theme=dracula&show_icons=true)
+
+
+> Programming Languages used by me are as follows :
+>
+>>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAKASH707&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

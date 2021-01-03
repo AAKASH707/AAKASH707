@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 > Programming Languages used by me are as follows :
 >
 >>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAKASH707&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+> You can find me here :
+>
+> <>  <a href="https://discord.com/channels/@me"><img src="https://i.ibb.co/hVNgVt8/download.jpg" alt="download" border="0"></a>

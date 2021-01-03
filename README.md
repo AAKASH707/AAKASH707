@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: You are only to belive and do!!
 -->
->My GitHub stats are as follows :                                                                                                                                                    >
+>My GitHub stats are as follows :   
+>
 >![Aakash's's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAKASH707&theme=dracula&show_icons=true)

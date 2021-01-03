@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 > You can find me here :
 >
-> <>  <a href="https://discord.com/channels/@me"><img src="https://i.ibb.co/hVNgVt8/download.jpg" alt="download" border="0"></a>
+>  <a href="https://discord.com/channels/@me"><img src="https://i.ibb.co/hVNgVt8/download.jpg" alt="download" border="0"></a>

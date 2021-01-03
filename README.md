@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 > You can find me here :
 >
->  <a href="https://discord.com/channels/@LUCIFER"><img src="https://i.ibb.co/hVNgVt8/download.jpg" alt="download" border="0"></a>
+>  <a href="https://discordapp.com/users/731946737924833300/"><img src="https://i.ibb.co/hVNgVt8/download.jpg" alt="download" border="0"></a>

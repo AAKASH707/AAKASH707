@@ -1,6 +1,4 @@
 ### Hi there 👋
-<!--
-**AAKASH707/AAKASH707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Algorithums
@@ -12,6 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...Lucifer
 - ⚡ Fun fact: You are only to belive and do!!
 -->
+
+
 >My GitHub stats are as follows :   
 >
 >![Aakash's's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAKASH707&theme=dracula&show_icons=true)

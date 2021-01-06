@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with python projects
 - 💬 Ask me about C
-- 📫 How to reach me: Lucifer6218@gmail.com
-- 😄 Pronouns: ...Lucifer
+- 📫 How to reach me:https://discord.com/users/731946737924833300/
+- 😄 Pronouns: ... *TheSkyBoy*
 - ⚡ Fun fact: You are only to belive and do!!
 -->
 

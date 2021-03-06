@@ -1,12 +1,11 @@
 ###              Bonjour  👋
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on DevOps tools
-- 🌱 I’m currently learning python,Java ....
-- 👯 I’m looking to collaborate on open source
-- 📫 How to reach me:https://discord.com/users/731946737924833300/
-- 😄 Pronouns: ... *TheSkyBoy*
-- ⚡ Fun fact: You are only to belive and do cheers !!
+ - :sunny: I’m currently working on DevOps tools
+ - 🌱 I’m currently learning python,Java ....
+ - 👯 I’m looking to collaborate on open source
+ - 📫 How to reach me:https://discord.com/users/731946737924833300/
+ - 😄 Pronouns: ... *TheSkyBoy*
 -->
 
 

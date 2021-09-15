@@ -4,7 +4,7 @@ Here are some ideas to get you started:
  - :sunny: I’m currently working on DevOps tools
  - 🌱 I’m currently learning python,Java ....
  - 👯 I’m looking to collaborate on open source
- - 📫 How to reach me:https://discord.com/users/731946737924833300/
+ - 📫 How to reach me:https://www.linkedin.com/in/aakash-nath-44605718b/
  - 😄 Pronouns: ... *TheSkyBoy*
 -->
 
